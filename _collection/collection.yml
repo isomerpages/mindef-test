@@ -2,5 +2,6 @@ collections:
   collection:
     output: true
     order:
+      - Core Products.md
       - About Us.md
       - page.md
